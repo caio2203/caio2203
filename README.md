@@ -58,8 +58,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=caio2203.caio2203&left_color=gray&right_color=darkcyan"  />
-</div>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/caio2203/caio2203/output/snake.svg" alt="Snake animation" />
 
 ###
