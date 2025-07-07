@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Caio, i study bachelor's degree in Information Systems at IFBA<br><br>-✝ Jesus follower<br>-🌎 Vitória da Conquista, Brazil<br>- 🔭 I’m working as developer at NID (Núcleo de Inteligência de Dados or Data Intelligence Core in EN) , I specialize in automation solutions and a little bit of website development services<br>- 📚 I'm currently learning automation and AI for data science and manipulation<br>- ⚡ In my free time i enjoy gaming and listening to good music</p>
+<p align="left">My name is Caio, i study bachelor's degree in Information Systems at IFBA<br><br>-✝ Jesus follower<br>-🌎 Vitória da Conquista, Brazil<br>- 🔭I work as a Developer and Data Engineering & Analysis Intern at NID (Núcleo de Inteligência de Digital, or Digital Intelligence Core). My focus is on automation solutions, building and optimizing data pipelines, system configuration, and some web development.<br>- 📚 I'm currently learning automation and AI for data science and manipulation<br>- ⚡ In my free time i enjoy gaming and listening to good music</p>
 
 ###
 
