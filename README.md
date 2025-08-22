@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="250" src="assets/img_github_readme.png"/>
+  <img height="250" src="<img width="846" height="155" alt="banner" src="https://github.com/user-attachments/assets/9d8ed228-e2fd-4b30-9017-ab634a69599b" />
+"/>
 </div>
 
 ###
