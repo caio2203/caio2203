@@ -23,7 +23,14 @@
 
 ###
 
-<p align="left">-✝ Jesus follower<br>-🌎 Vitória da Conquista, Brazil<br>- 🔭I work as a Developer and Data Engineering & Analysis Intern at NID (Núcleo de Inteligência de Digital, or Digital Intelligence Core). My focus is on automation solutions, building and optimizing data pipelines, system configuration, and some backend development.<br>- 📚 I'm currently learning automation and AI for data manipulation<br>- ⚡ In my free time i enjoy gaming and listening to good music</p>
+<p align="left">
+- 🌎 Brazil<br>
+- 🔭 I work as a Developer Intern at NID (Núcleo de Inteligência Digital). My focus is on backend development and server infrastructure.<br>
+- 🛠️ Currently building robust backend solutions using C++, Python, Docker, and PostgreSQL, with experience in API integrations.<br>
+- 📚 I'm currently deepening my knowledge in backend and server architecture optimization.<br>
+- 💻 Environment: Linux.<br>
+- ⚡ In my free time, I enjoy configuring custom servers (CS2), gaming, and listening to good music.
+</p>
 
 ###
 
