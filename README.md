@@ -24,12 +24,12 @@
 ###
 
 <p align="left">
-- 🌎 Brazil<br>
-- 🔭 I work as a Developer Intern at NID (Núcleo de Inteligência Digital). My focus is on backend development and server infrastructure.<br>
-- 🛠️ Currently building robust backend solutions using C++, Python, Docker, and PostgreSQL, with experience in API integrations.<br>
-- 📚 I'm currently deepening my knowledge in backend and server architecture optimization.<br>
-- 💻 Environment: Linux.<br>
-- ⚡ In my free time, I enjoy configuring custom servers (CS2), gaming, and listening to good music.
+- Brazil<br>
+- I work as a Developer Intern at NID. My focus is on backend development and server infrastructure.<br>
+- Building backend solutions using TypeScript, Python, Docker, NestJS, and PostgreSQL, with a focus on API creation and integrations.<br>
+- I'm currently deepening my knowledge in backend and server optimization.<br>
+- Environment: Linux.<br>
+- In my free time, I enjoy configuring custom servers for personal use, gaming, and listening to good music.
 </p>
 
 ###
@@ -45,8 +45,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
